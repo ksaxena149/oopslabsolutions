@@ -1,0 +1,9 @@
+1. Write a a class reverse to initialize the value of an integer using constructor and also create a methodcall reverseValue to find the reverse of a given integer and display() method to display the number and also the reverse of the number
+Use implement reverse class to implement it
+2. Define a class Box having three variables, 4 constructor
+i) constructor without parameter initializing all values to 0
+ii) constructor with one parameter initializing all values with parameter passes
+iii) 2 parameter, l and b with values and h will be 1
+iv) constructor with three parameters initialize all values with values passes
+v) method area() to calculate area of box
+vi) method display to display result of area
