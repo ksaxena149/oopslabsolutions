@@ -38,5 +38,6 @@ public class ImplementTriangle {
     Triangle t2 = new Triangle(a, b, c);
     t2.calc();
     t2.display();
+    sc.close();
   }
 }
